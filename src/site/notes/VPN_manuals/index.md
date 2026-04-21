@@ -27,9 +27,9 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | [[VPN_manuals/Texts/Discussions\|Discussions]]                                                                                                     | 21.04.2026      |
 | [[VPN_manuals/VPN/VPN_Lab/Выявление слежки  в 30 популярных  российских  приложениях\|Выявление слежки  в 30 популярных  российских  приложениях]] | 20.04.2026      |
-| [[VPN_manuals/VPN/Free_VPN_services/vpnbook.com\|vpnbook.com]]                                                                                     | 20.04.2026      |
+| [[VPN_manuals/VPN/Free_VPN_services/vpnbook dot com\|vpnbook dot com]]                                                                             | 20.04.2026      |
 | [[VPN_manuals/VPN/Free_VPN_services/config - VPN configs for Russia\|config - VPN configs for Russia]]                                             | 20.04.2026      |
-| [[VPN_manuals/VPN/Free_VPN_services/sshs8.com\|sshs8.com]]                                                                                         | 20.04.2026      |
+| [[VPN_manuals/VPN/Free_VPN_services/sshs8 dot com\|sshs8 dot com]]                                                                                 | 20.04.2026      |
 
 { .block-language-dataview}
 
