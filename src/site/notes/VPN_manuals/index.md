@@ -25,10 +25,10 @@
 
 | Последние 5 добавленных/обновленных статей                                                                                                            | Категория   | Дата добавления |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------------- |
+| [[VPN_manuals/Texts/Discussions\|Discussions]]                                                                                                     | Тексты      | 21.04.2026      |
 | [[VPN_manuals/Texts/Censorship\|Censorship]]                                                                                                       | Тексты      | 21.04.2026      |
 | [[VPN_manuals/VPN/Free_VPN_services/config - Goida VPN site\|config - Goida VPN site]]                                                             | Free VPN    | 21.04.2026      |
 | [[VPN_manuals/VPN/VPN_clients/Karing\|Karing]]                                                                                                     | VPN-клиенты | 21.04.2026      |
-| [[VPN_manuals/Texts/Discussions\|Discussions]]                                                                                                     | Тексты      | 21.04.2026      |
 | [[VPN_manuals/VPN/VPN_Lab/Выявление слежки  в 30 популярных  российских  приложениях\|Выявление слежки  в 30 популярных  российских  приложениях]] | VPN Lab     | 20.04.2026      |
 
 { .block-language-dataview}
