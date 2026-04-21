@@ -1,7 +1,7 @@
 [
 {
 		"title": "Texts",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/texts/",
 		"content": "<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/texts/censorship/\"> Хронология становления цензуры в РФ</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/texts/discussions/\">Обсуждения блокировок, способы обхода</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/free-vpn-services/config-vpn-configs-for-russia/\">Бесплатные VPN-конфигурации, работающие в РФ</a>",
 		"tags": [ "note"]
@@ -9,7 +9,7 @@
 
 {
 		"title": "Censorship",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/texts/censorship/",
 		"content": "Раздел в разработке..",
 		"tags": [ "note"]
@@ -17,7 +17,7 @@
 
 {
 		"title": "Discussions",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/texts/discussions/",
 		"content": "Суверенный интернет, белые списки и способы их обхода\nhttps://4pda.to/forum/index.php?showtopic=1110469&amp;st=520\n\nДискуссионная площадка, посвященная инструментам для обхода блокировок интернета, глубокому анализу трафика (DPI) и сетевым технологиям.\nhttps://ntc.party/top?period=yearly",
 		"tags": [ "note"]
@@ -25,7 +25,7 @@
 
 {
 		"title": "Free_VPN_services",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/vpn/free-vpn-services/",
 		"content": "<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/free-vpn-services/config-goida-vpn-site/\">config - Goida VPN site</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/free-vpn-services/config-vpn-configs-for-russia/\">config - VPN configs for Russia</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/free-vpn-services/liberty-vpn/\">Liberty VPN</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/free-vpn-services/sshs8-dot-com/\">sshs8 dot com</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/free-vpn-services/vpnbook-dot-com/\">vpnbook dot com</a>",
 		"tags": [ "note"]
@@ -33,7 +33,7 @@
 
 {
 		"title": "Happ",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/vpn/free-vpn-services/liberty-vpn/",
 		"content": "https://liberty-free.ru/\nhttps://liberty-f-r-e-e.ru/\nПолучение подписки после ввода капчи на сайте.",
 		"tags": [ "note"]
@@ -41,15 +41,15 @@
 
 {
 		"title": "Happ",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/vpn/free-vpn-services/config-goida-vpn-site/",
-		"content": "Создана: 20.04.2026Изменена: 21.04.2026\nhttps://github.com/AvenCores/goida-vpn-configs\nАвтоматически обновляемая коллекция публичных VPN-конфигов (V2Ray / VLESS / Hysteria / Trojan / VMess / Reality / Shadowsocks) для быстрого обхода блокировок.\nКаждый конфиг — это TXT-подписка, которую можно импортировать практически в любой современный клиент (v2rayNG, NekoRay, Throne, v2rayN, V2Box, v2RayTun, Hiddify и др.).\nКонфиги обновляются каждые 9 минут с помощью GitHub Actions, поэтому ссылки из раздела «📋 Общий список всех вечно актуальных конфигов» всегда актуальны.",
+		"content": "Создана: 20.04.2026Информация обновлена: 21.04.2026\nhttps://github.com/AvenCores/goida-vpn-configs\nАвтоматически обновляемая коллекция публичных VPN-конфигов (V2Ray / VLESS / Hysteria / Trojan / VMess / Reality / Shadowsocks) для быстрого обхода блокировок.\nКаждый конфиг — это TXT-подписка, которую можно импортировать практически в любой современный клиент (v2rayNG, NekoRay, Throne, v2rayN, V2Box, v2RayTun, Hiddify и др.).\nКонфиги обновляются каждые 9 минут с помощью GitHub Actions, поэтому ссылки из раздела «📋 Общий список всех вечно актуальных конфигов» всегда актуальны.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Happ",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/vpn/free-vpn-services/config-vpn-configs-for-russia/",
 		"content": "Бесплатные VPN-конфигурации, работающие в РФ\nМного важной и полезной инфы о блокировках (вся инфа ниже с этой страницы на гитхаб):\nhttps://github.com/igareck/vpn-configs-for-russia?tab=readme-ov-file#\nБЕЛЫЙ СПИСОК ⚪\nhttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt\nhttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt\nTOR BRIDGES\nСписки мостов для выхода в сеть Tor. Лучшие 100 мостов.\nhttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/TOR-BRIDGES/TOR_BRIDGES_TOP100.txt\nhttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/TOR-BRIDGES/TOR_BRIDGES_VANILLA.txt\nhttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/TOR-BRIDGES/TOR_BRIDGES_OBFS4.txt\nhttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/TOR-BRIDGES/TOR_BRIDGES_WEBTUNNEL.txt\nЧЕРНЫЙ СПИСОК ⚫\nПодписки, обходящие Черные Списки РКН.\nhttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt\nВнимание! Осторожнее с загрузкой этой полной подписки на телефон! Может содержать более 1000-2000 конфигураций! Телефоны очень тяжело &quot;переваривают&quot; такое количество! Рекомендовано только для компьютера!\nVLESS полная (все конфиги):\nhttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt\nSHADOWSOCKS+ALL:\nhttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS+All_RUS.txt\nЗЕРКАЛА\nЕсть много вариантов с зеркалами для альтернативного доступа к подпискам:\n1. Яндекс Переводчик: поможет в режиме Белых Списков, т.к. подсети Яндекса самые стабильные и рабочие при БС.\nСпособ работает, только если вручную доставать конфиги из браузера, через клиент работать не будет!\n2. JSDelivr (через CDN): это обходной путь через крупную сеть доставки контента: https://cdn.jsdelivr.net.\n3. Statically (через CDN): это обходной путь через крупную сеть доставки контента: https://cdn.statically.io.\n4. Githack (через Cloudflare): https://rawcdn.githack.com\n5. Githack (напрямую): https://raw.githack.com\nПункты 2,3,4,5 помогут только в случае Черных Списков. Актуально, если Роскомнадзор заблокирует GitHub.\nНиже - готовые ссылки на подписки через зеркала.\nСохраните себе их на устройстве, на случай блокировки GitHub или режима Белых Списков.\nСсылки Яндекс переводчика работают корректно, только если вы их запускаете в браузере и вручную копируете конфиги оттуда к себе в клиент! Добавление ссылки Яндекса в клиент для автообновления сделает ваши конфиги битыми и нерабочими!\nЧерные Списки VLESS ТОП-150:\nhttps://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt&amp;lang=de-de\nhttps://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/BLACK_VLESS_RUS_mobile.txt\nhttps://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/BLACK_VLESS_RUS_mobile.txt\nhttps://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt\nhttps://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt\nЧерные Списки VLESS Полная:\nhttps://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt&amp;lang=de-de\nhttps://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/BLACK_VLESS_RUS.txt\nhttps://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/BLACK_VLESS_RUS.txt\nhttps://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt\nhttps://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt\nЧерные Списки SHADOWSOCKS+ALL:\nhttps://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS+All_RUS.txt&amp;lang=de-de\nhttps://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/BLACK_SS+All_RUS.txt\nhttps://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/BLACK_SS+All_RUS.txt\nhttps://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt\nhttps://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt\nTOR BRIDGES ТОП-100:\nhttps://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/TOR-BRIDGES/TOR_BRIDGES_TOP100.txt&amp;lang=de-de\nhttps://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_TOP100.txt\nhttps://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_TOP100.txt\nhttps://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_TOP100.txt\nhttps://raw.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_TOP100.txt\nTOR BRIDGES ПОЛНАЯ:\nhttps://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/TOR-BRIDGES/TOR_BRIDGES_ALL.txt&amp;lang=de-de\nhttps://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_ALL.txt\nhttps://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_ALL.txt\nhttps://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_ALL.txt\nhttps://raw.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_ALL.txt\nTOR BRIDGES VANILLA:\nhttps://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/TOR-BRIDGES/TOR_BRIDGES_VANILLA.txt&amp;lang=de-de\nhttps://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_VANILLA.txt\nhttps://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_VANILLA.txt\nhttps://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_VANILLA.txt\nhttps://raw.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_VANILLA.txt\nTOR BRIDGES OBFS4:\nhttps://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/TOR-BRIDGES/TOR_BRIDGES_OBFS4.txt&amp;lang=de-de\nhttps://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_OBFS4.txt\nhttps://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_OBFS4.txt\nhttps://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_OBFS4.txt\nhttps://raw.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_OBFS4.txt\nTOR BRIDGES WEBTUNNEL:\nhttps://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/TOR-BRIDGES/TOR_BRIDGES_WEBTUNNEL.txt&amp;lang=de-de\nhttps://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_WEBTUNNEL.txt\nhttps://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_WEBTUNNEL.txt\nhttps://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_WEBTUNNEL.txt\nhttps://raw.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_WEBTUNNEL.txt\nБелые Списки CIDR ТОП 150 №1:\nhttps://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt&amp;lang=de-de\nhttps://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/Vless-Reality-White-Lists-Rus-Mobile.txt\nhttps://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/Vless-Reality-White-Lists-Rus-Mobile.txt\nhttps://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt\nhttps://raw.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt\nБелые Списки CIDR ТОП 150 №2:\nhttps://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt&amp;lang=de-de\nhttps://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/Vless-Reality-White-Lists-Rus-Mobile-2.txt\nhttps://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/Vless-Reality-White-Lists-Rus-Mobile-2.txt\nhttps://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt\nhttps://raw.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt\nБелые Списки CIDR полная:\nhttps://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt&amp;lang=de-de\nhttps://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/WHITE-CIDR-RU-all.txt\nhttps://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/WHITE-CIDR-RU-all.txt\nhttps://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt\nhttps://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt\nБелые Списки CIDR только с хостерами: VK, YANDEX, CDNVIDEO, Beeline:\nhttps://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt&amp;lang=de-de\nhttps://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/WHITE-CIDR-RU-checked.txt\nhttps://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/WHITE-CIDR-RU-checked.txt\nhttps://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt\nhttps://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt\nБелые Списки SNI:\nhttps://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt&amp;lang=de-de\nhttps://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/WHITE-SNI-RU-all.txt\nhttps://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/WHITE-SNI-RU-all.txt\nhttps://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt\nhttps://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt\nАльтернативные ссылки для доступа к подпискам в режиме белых списков или в случае блокировки GitHub.",
 		"tags": [ "note"]
@@ -57,7 +57,7 @@
 
 {
 		"title": "Happ",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/vpn/free-vpn-services/sshs8-dot-com/",
 		"content": "https://sshs8.com/",
 		"tags": [ "note"]
@@ -65,7 +65,7 @@
 
 {
 		"title": "Happ",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/vpn/free-vpn-services/vpnbook-dot-com/",
 		"content": "https://www.vpnbook.com/ru/freevpn",
 		"tags": [ "note"]
@@ -73,7 +73,7 @@
 
 {
 		"title": "Manuals",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/vpn/manuals/",
 		"content": "",
 		"tags": [ "note"]
@@ -81,7 +81,7 @@
 
 {
 		"title": "Paid_VPN_services",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/vpn/paid-vpn-services/",
 		"content": "",
 		"tags": [ "note"]
@@ -89,7 +89,7 @@
 
 {
 		"title": "Self-hosting",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/vpn/self-hosting/",
 		"content": "Раздел в разработке.",
 		"tags": [ "note"]
@@ -97,7 +97,7 @@
 
 {
 		"title": "VPN_Lab",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/vpn/vpn-lab/",
 		"content": "<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Выявление слежки в 30 популярных российских приложениях</a>",
 		"tags": [ "note"]
@@ -105,7 +105,7 @@
 
 {
 		"title": "Happ",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/vpn/vpn-lab/vyyavlenie-slezhki-v-30-populyarnyh-rossijskih-prilozheniyah/",
 		"content": "",
 		"tags": [ "note"]
@@ -113,7 +113,7 @@
 
 {
 		"title": "VPN_clients",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/vpn/vpn-clients/",
 		"content": "<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/vpn-clients/happ/\">Happ</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/vpn-clients/hiddify/\">Hiddify</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/vpn-clients/karing/\">Karing</a>",
 		"tags": [ "note"]
@@ -121,7 +121,7 @@
 
 {
 		"title": "Happ",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/vpn/vpn-clients/happ/",
 		"content": "https://www.happ.su/main/ru\nhttps://4pda.to/forum/index.php?showtopic=1100040\nHapp — кроссплатформенное приложение для удобной работы с прокси-серверами. Построенное на базе мощного ядра Xray.\nПриложение доступно на Windows, macOS, Linux, мобильных устройствах (iOS/Android) и TV (tvOS/Android TV).\nИнтуитивный интерфейс и гибкие настройки делают Happ надёжным инструментом как для новичков, так и для опытных пользователей.\nОсновные возможности включают:\n\nНастройку прокси-серверов на основе гибких правил маршрутизации.\nПоддержку множества современных протоколов, включая:\n\nVLESS (Reality)\nVMess\nTrojan\nShadowsocks\nSocks\n\nHapp гарантирует конфиденциальность вашей сетевой активности и не собирает никаких данных. Вся информация остается исключительно на вашем устройстве и не передается на сторонние серверы.\nВажно отметить, что Happ не содержит собственных серверов и не предоставляет услуги VPN. Пользователи самостоятельно настраивают свои серверы для личного использования. Также Happ просит своих пользователей соблюдать действующее законодательство своей юрисдикции при использовании приложения.\nНовый домен https://happ.info",
 		"tags": [ "note"]
@@ -129,7 +129,7 @@
 
 {
 		"title": "Hiddify",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/vpn/vpn-clients/hiddify/",
 		"content": "https://hiddify.com/\nhttps://4pda.to/forum/index.php?showtopic=1080745\nКраткое описание:\nУниверсальный клиент для автоматической прокси-настройки\nОписание:\nОсновная цель HiddifyNext — предоставить безопасный, удобный и эффективный клиент туннелирования. Он позволяет направлять весь трафик или трафик выбранного приложения на выбранный удаленный сервер, используя разрешение VPN-сервиса.\nHiddifyNext поддерживает протоколы:\nECH, Sing-box, V2ray, Xray, Vless, Vmess, Reality, TUIC, Hysteria, ShadowTLS, SSH, Clash, Clash meta",
 		"tags": [ "note"]
@@ -137,7 +137,7 @@
 
 {
 		"title": "Hiddify",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/vpn/vpn-clients/karing/",
 		"content": "Karing - бесплатная мультиплатформенная программа, с открытыми исходниками, представляющая собой мощный и простой набор инструментов proxy.\nПрограмма разработана китайской фирмой, и в основном предназначена для работы с подписками VPN (динамически обновляемый по специальной ссылке список серверов) или &quot;аэропортами&quot; - еще более развитой системой динамического предоставления услуг VPN. Понимает форматы подписок - Clash, V2ray (с пакетом поддержки), Stash, Karing, Sing-box, Shadowsocks, Sub, Github.\nПоддерживает все современные протоколы - VMess, Vless, Trojan и Shadowsocks (а также многие другие - ShadowsoksR, TUIC, Socks, Http, Hysteria, Hysteria2, WireGuard и др). Интерфейс русифицирован. Справка из меню - в основном на китайском, иногда на английском.\nhttps://karing.app/blog/quickstart-in-russian/",
 		"tags": [ "note"]
@@ -145,7 +145,7 @@
 
 {
 		"title": "Works_out_of_the_box",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/vpn/works-out-of-the-box/",
 		"content": "Работает из коробки.\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/works-out-of-the-box/freebrowser/\">Freebrowser</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/works-out-of-the-box/tor-project/\">Tor Project</a>",
 		"tags": [ "note"]
@@ -153,7 +153,7 @@
 
 {
 		"title": "Freebrowser",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/vpn/works-out-of-the-box/freebrowser/",
 		"content": "Еще одно средство для обхода блокировок - браузер на базе Chromium со встроенными инструментами обхода блокировок - FreeBrowser.\nЕсть под Windows, Linux, Mac, Android\nYouTube хоть и не сразу, но открыл на винде и нормально воспроизвел в 1080p.\nМожно использовать как резервный способ для получения/покупки основного VPN, если все остальное &quot;отвалилось&quot;.\n\nСразу после установки вы получите доступ к любым заблокированным ресурсам и контенту.\nFreeBrowser отличается от других способов обхода ограничений в интернете, например VPN?\nМы не используем технологию VPN, которая также уязвима для блокировок (и некоторые коммерческие сервисы VPN уже заблокированы на территории РФ)\nВ отличие от VPN, только сёрфинг в браузере идёт в обход блокировок Роскомнадзора. Остальными, незапрещёнными приложениями можно пользоваться как обычно.\nПод капотом FreeBrowser – технология Domain Fronting позволяющая маскировать трафик к запрещённым ресурсам под трафик к сайтам незаблокированным. .....\n\nhttps://freebrowser.org/ru\nhttps://4pda.to/forum/index.php?showtopic=1031363&amp;st=80\nhttps://github.com/greatfire/freebrowser-ru-old",
 		"tags": [ "note"]
@@ -161,7 +161,7 @@
 
 {
 		"title": "Проект ТОР",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/vpn-manuals/vpn/works-out-of-the-box/tor-project/",
 		"content": "https://bridges.torproject.org/",
 		"tags": [ "note"]
@@ -169,7 +169,7 @@
 
 {
 		"title": "VPN_manuals",
-		"date":"Tue Apr 21 2026 12:07:14 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 21 2026 12:09:38 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "ДИСКЛЕЙМЕР\nВсю предоставленную информацию используем на свой страх и риск.\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/texts/\">Статьи, обсуждения, обходы</a>\n\nМануалы. Обходы.\n\nТемы\nДругие темы\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/vpn-clients/\">VPN-клиенты</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/works-out-of-the-box/\">Работает из коробки</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/free-vpn-services/\">Бесплатные VPN-сервисы</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/paid-vpn-services/\">Платные VPN-сервисы</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/self-hosting/\">Для установки на свой сервер</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/vpn-lab/\">VPN_Lab</a>\n\nПоследние 5 добавленные/обновленные статьи.\nДата добавления\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/free-vpn-services/config-goida-vpn-site/\">config - Goida VPN site</a>\n21.04.2026\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/texts/censorship/\">Censorship</a>\n21.04.2026\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/vpn/vpn-clients/karing/\">Karing</a>\n21.04.2026\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/vpn-manuals/texts/discussions/\">Discussions</a>\n21.04.2026\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Выявление слежки в 30 популярных российских приложениях</a>\n20.04.2026",
 		"tags": [ "note","gardenEntry"]
