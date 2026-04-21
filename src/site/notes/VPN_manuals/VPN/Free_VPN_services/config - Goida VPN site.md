@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/vpn-manuals/vpn/free-vpn-services/config-goida-vpn-site/","title":"Happ","dg-note-properties":{"title":"Happ"}}
 ---
 
+<p><span>Создана: 20.04.2026</span></p><p><span>Изменена: 21.04.2026</span></p>
+
 https://github.com/AvenCores/goida-vpn-configs
 
 Автоматически обновляемая коллекция публичных VPN-конфигов (`V2Ray` / `VLESS` / `Hysteria` / `Trojan` / `VMess` / `Reality` / `Shadowsocks`) для быстрого обхода блокировок.
