@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/vpn-manuals/vpn/vpn-clients/happ/","title":"Happ","dg-note-properties":{"title":"Happ"}}
 ---
 
-![Pasted image 20260417135738.png](/img/user/Pasted%20image%2020260417135738.png)
-
 https://www.happ.su/main/ru
 https://4pda.to/forum/index.php?showtopic=1100040
 
@@ -28,3 +26,5 @@ Happ — кроссплатформенное приложение для удо
 Важно отметить, что **Happ** не содержит собственных серверов и не предоставляет услуги VPN. Пользователи самостоятельно настраивают свои серверы для личного использования. Также Happ просит своих пользователей соблюдать действующее законодательство своей юрисдикции при использовании приложения.
 
 Новый домен https://happ.info
+
+![Pasted image 20260417135738.png](/img/user/Pasted%20image%2020260417135738.png)

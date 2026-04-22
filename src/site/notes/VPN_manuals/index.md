@@ -23,13 +23,13 @@
 
 ---
 
-| Последние 5 добавленных/обновленных статей                                                | Категория   | Дата добавления |
-| ----------------------------------------------------------------------------------------- | ----------- | --------------- |
-| [[VPN_manuals/VPN/VPN_clients/Happ\|Happ]]                                             | VPN-клиенты | 21.04.2026      |
-| [[VPN_manuals/Texts/Censorship\|Censorship]]                                           | Тексты      | 21.04.2026      |
-| [[VPN_manuals/Texts/Discussions\|Discussions]]                                         | Тексты      | 21.04.2026      |
-| [[VPN_manuals/VPN/Free_VPN_services/config - Goida VPN site\|config - Goida VPN site]] | Free VPN    | 21.04.2026      |
-| [[VPN_manuals/VPN/VPN_clients/Karing\|Karing]]                                         | VPN-клиенты | 21.04.2026      |
+| Последние 5 добавленных/обновленных статей          | Категория   | Дата добавления |
+| --------------------------------------------------- | ----------- | --------------- |
+| [[VPN_manuals/VPN/VPN_clients/Hiddify\|Hiddify]] | VPN-клиенты | 22.04.2026      |
+| [[VPN_manuals/VPN/VPN_clients/Happ\|Happ]]       | VPN-клиенты | 22.04.2026      |
+| [[VPN_manuals/VPN/VPN_clients/Karing\|Karing]]   | VPN-клиенты | 22.04.2026      |
+| [[VPN_manuals/Texts/Censorship\|Censorship]]     | Тексты      | 21.04.2026      |
+| [[VPN_manuals/Texts/Discussions\|Discussions]]   | Тексты      | 21.04.2026      |
 
 { .block-language-dataview}
 
