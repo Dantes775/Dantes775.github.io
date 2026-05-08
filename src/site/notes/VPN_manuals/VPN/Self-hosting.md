@@ -3,14 +3,4 @@
 ---
 
 Раздел в разработке.
-
-```base
-views:
-  - type: table
-    name: Таблица
-    filters:
-      and:
-        - file.folder == "VPN_manuals/VPN/Self-hosting"
-
-```
-
+![[Без названия 3.base\|Без названия 3.base]]
