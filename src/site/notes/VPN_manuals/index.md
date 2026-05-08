@@ -18,7 +18,7 @@
 | [[VPN_manuals/VPN/Works_out_of_the_box\|Работает из коробки]]  |     |                                   | https://ipspeed.info/       |
 | [[VPN_manuals/VPN/Free_VPN_services\|Бесплатные VPN-сервисы]]  |     |                                   | https://ipleak.net/         |
 | [[VPN_manuals/VPN/Paid_VPN_services\|Платные VPN-сервисы]]     |     |                                   | https://dnsleaktest.com/    |
-| [[VPN_manuals/VPN/Self-hosting\|Для установки на свой сервер]] |     |                                   |                             |
+| [[VPN_manuals/VPN/Self-hosting\|Для установки на свой сервер]] |     |                                   | https://dnscheck.tools/     |
 | [[VPN_manuals/VPN/VPN_Lab\|VPN_Lab]]                                    |     |                                   |                             |
 | [[VPN_manuals/Texts/Ненадежные сервисы\|Ненадежные сервисы]]                         |     |                                   |                             |
 |                                                |     |                                   |                             |
