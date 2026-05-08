@@ -12,17 +12,17 @@
 
  <h2 style="text-align: center;">Мануалы. Обходы.</h2> 
  
-| Темы                                           |     | Актуальные новости по блокировкам | Полезные сервисы (основные) |
-| ---------------------------------------------- | --- | --------------------------------- | --------------------------- |
-| [[VPN_manuals/VPN/VPN_clients\|VPN-клиенты]]                   |     | https://rks.global/ru/            | https://whoer.net/          |
-| [[VPN_manuals/VPN/Works_out_of_the_box\|Работает из коробки]]  |     |                                   | https://ipspeed.info/       |
-| [[VPN_manuals/VPN/Free_VPN_services\|Бесплатные VPN-сервисы]]  |     |                                   | https://ipleak.net/         |
-| [[VPN_manuals/VPN/Paid_VPN_services\|Платные VPN-сервисы]]     |     |                                   | https://dnsleaktest.com/    |
-| [[VPN_manuals/VPN/Self-hosting\|Для установки на свой сервер]] |     |                                   | https://dnscheck.tools/     |
-| [[VPN_manuals/VPN/VPN_Lab\|VPN_Lab]]                                    |     |                                   |                             |
-| [[VPN_manuals/Texts/Ненадежные сервисы\|Ненадежные сервисы]]                         |     |                                   |                             |
-|                                                |     |                                   |                             |
-| [[VPN_manuals/VPN/Manuals\|Manuals]]                                    |     |                                   | [[Другие полезные сервисы\|Другие полезные сервисы]] |
+| Темы                                           |     | Актуальные новости по блокировкам | Полезные сервисы (основные)  |
+| ---------------------------------------------- | --- | --------------------------------- | ---------------------------- |
+| [[VPN_manuals/VPN/VPN_clients\|VPN-клиенты]]                   |     | https://rks.global/ru/            | https://whoer.net/           |
+| [[VPN_manuals/VPN/Works_out_of_the_box\|Работает из коробки]]  |     |                                   | https://ipspeed.info/        |
+| [[VPN_manuals/VPN/Free_VPN_services\|Бесплатные VPN-сервисы]]  |     |                                   | https://ipleak.net/          |
+| [[VPN_manuals/VPN/Paid_VPN_services\|Платные VPN-сервисы]]     |     |                                   | https://dnsleaktest.com/     |
+| [[VPN_manuals/VPN/Self-hosting\|Для установки на свой сервер]] |     |                                   | https://dnscheck.tools/      |
+| [[VPN_manuals/VPN/VPN_Lab\|VPN_Lab]]                                    |     |                                   |                              |
+| [[VPN_manuals/Texts/Ненадежные сервисы\|Ненадежные сервисы]]                         |     |                                   |                              |
+|                                                |     |                                   |                              |
+| [[VPN_manuals/VPN/Manuals\|Manuals]]                                    |     |                                   | [[VPN_manuals/Texts/Другие полезные сервисы.\|Другие полезные сервисы.]] |
 
 ---
 
