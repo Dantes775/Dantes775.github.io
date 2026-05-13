@@ -27,7 +27,7 @@
 | ---------------------------------------------- | --- | --------------- | --- | ----------------------------- |
 | [[VPN_manuals/VPN/VPN_Lab\|VPN_Lab]]                                    |     | [[VPN_manuals/PC_Diagnostics_manuals/Diagnostics\|Diagnostics]] |     | [[VPN_manuals/Alternative OS for smartphones/Ubuntu Touch\|Ubuntu Touch]]              |
 | [[VPN_manuals/VPN/Self-hosting\|Для установки на свой сервер]] |     |                 |     | [[VPN_manuals/Alternative OS for smartphones/postmarketOS\|postmarketOS]]              |
-|                                                |     |                 |     | [[VPN_manuals/Alternative OS for smartphones/Droidian\|Droidian]]                  |
+| [[VPN_manuals/VPN/Mesh-сети\|Mesh-сети]]                                  |     |                 |     | [[VPN_manuals/Alternative OS for smartphones/Droidian\|Droidian]]                  |
 
 
 ---
