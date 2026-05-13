@@ -12,6 +12,8 @@ https://purpleschool.ru/knowledge-base/docker/work-with-network/tailscale-in-doc
 
 https://wiki.wirenboard.com/wiki/Tailscale
 
+https://hostbor.uz/tailscale-on-synology-nas/
+
 "Tailscale это по сути тунель между пк. А радмин это общая сеть. Через радмин при подключении все пк как будто находятся в 1 wi-fi сети и видят друг-друга. Но tailscale это тунель где надо вводить ip адрес вручную и если игра не поддерживает подключения к серверам через ip:порт то tailscale не сработает. Я его делал только для майнкрафта на больших сборках, когда сервер не работает стабильно."
 
 
